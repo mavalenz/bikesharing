@@ -49,3 +49,6 @@ Further visualizations to add to this dashboard story for future analysis would 
 - The average distance traveled for each user and gender for each day of the week.
 - The average trips for each user and gender by each month of the year.
 
+##Tableau Dashboard Link:
+[Link to dashboard](https://public.tableau.com/app/profile/mara.valenzuela/viz/Module14-bikesharingchallenge/BikeSharingProgramPitch?publish=yes)
+
